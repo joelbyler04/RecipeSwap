@@ -48,6 +48,9 @@ Page contains:
 			- Comment section
 			- Heart button (Used to 'like' the dish)
 			- Save Button (Used to save dish to Saved Recipes)
+		~ Featured Recipe 
+			- Random recipe chosen to be featured
+			
 
 
 <---------------Cook Book--------------->
